@@ -1,0 +1,52 @@
+canvas {
+  // アニメーションさせる要素の固定化
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+
+.mainContents {
+  // position: absolute;
+ text-align: center;
+  width: 500px;
+  padding: 20px;
+  // height: 200vh;
+  // z-index: 100;
+  // justify-content: center;
+  // text-align: center;
+  // top: 30%;
+  // left: 20%;
+  color: #fff;
+
+  .title {
+    position: fixed;
+    top: 30%;
+    left: 20%;
+    height: 100vh;
+
+    h3 {
+      letter-spacing: 1.8px;
+      font-family: "Poppins", sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 4rem;
+    }
+  }
+
+
+  section {
+    width: 100%;
+    min-height: 100vh;
+    // padding: 20px;
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    p {
+      color: #fff;
+    }
+  }
+}
