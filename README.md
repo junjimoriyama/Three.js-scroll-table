@@ -3,7 +3,7 @@
 ![three js_scroll_table](https://github.com/user-attachments/assets/a97e06d0-8dbb-43a0-9c2d-43afd4632443)
 
 
-### URL: three-js-scroll-table.vercel.app/
+### URL: https://three-js-scroll-table.vercel.app/
 
 ### 🪑 3D WEBサイト
 
